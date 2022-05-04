@@ -8,7 +8,7 @@
 ## Results:
 This dynamic webpage will be able to filter multiple criteria by filling in the form and press enter when ready. 
 
-![screenshot.png](/resources/filter.png)
+![screenshot1.png](/resources/Filter.png)
 
 Once a criteria been entered, the table will automatically filter the results. If none of the items do not meet any of the results, a blank page will be displayed. 
 
